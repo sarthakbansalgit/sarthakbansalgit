@@ -10,7 +10,7 @@ A student pursuing Bachelors in Computer science studies from Symbiosis Internat
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakbansalgit&theme=radical">
 </a>
 </p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=peakscripter&count_private=true&theme=radical&show_icons=true" />
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=sarthakbansalgit&count_private=true&theme=radical&show_icons=true" />
 
 
 - 📫 How to reach me **bansalsarthak711@gmail.com**
