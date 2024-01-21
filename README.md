@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Sarthak Bansal</h1>
 <h5 align="center">
-A student pursuing Bachelors in Computer science studies from Symbiosis International University . I am a App Developer , Dsa Enthusiast , arch and macos user, currently New Technologes. 
+A student pursuing Bachelors in Computer science studies from Symbiosis International University . I am a App Developer  and Web Developer , Dsa Enthusiast , arch and macos user, currently New Technologes. 
 </h5>
 
 <a align= "center" href="https://github.com/sarthakbansalgit">
