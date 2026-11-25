@@ -1,27 +1,63 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />, I'm Sarthak Bansal</h1>
-<h5 align="center">
-A student pursuing Bachelors in Computer science studies from Symbiosis International University . I am a App Developer  and Web Developer , Dsa Enthusiast , arch and macos user, currently New Technologes. 
-</h5>
+<h1 align="center">Hi 👋, I'm Sarthak Bansal</h1>
 
-<a align= "center" href="https://github.com/sarthakbansalgit">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakbansalgit&theme=radical">
-</a>
-</p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=sarthakbansalgit&count_private=true&theme=radical&show_icons=true" />
+<h3 align="center">M1 Cybersecurity student @ ECE Paris · Security Analyst · Network Security · Python</h3>
 
-
-- 📫 How to reach me **bansalsarthak711@gmail.com**
-<br><br>
-<hr>
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-
-<a href="https://www.linkedin.com/in/sarthak-bansal-11aa83201/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/sarthak7633" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="sarthak7633" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/sarthakbansal7633"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:Bansalsarthak711@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<hr>
+---
+
+## 👨‍💻 About me
+
+- 🎓 Studying **MSc Cybersecurity Management** at **ECE Paris** (M1), after a **BCA with a cybersecurity major** at Symbiosis International University, Pune
+- 🛡️ One year of experience as a **Security Analyst** in a SOC: **Wazuh SIEM, Sysmon, MITRE ATT&CK**, Windows Server and Ubuntu
+- 🌐 Building **network security labs**: pfSense firewalls, VLANs, OSPF, ACLs, NAT/PAT
+- 🐍 Automating with **Python** (Netmiko, log parsers) and building full-stack web and mobile apps as a freelancer
+- 📍 Based in **Paris, France**
+- 🗣️ English (native level) · Hindi (native) · French (A2, improving every week)
+- 📫 Reach me at **Bansalsarthak711@gmail.com**
+
+---
+
+## 🧰 Tech stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+**Security:** Wazuh SIEM · Sysmon · MITRE ATT&CK · log analysis · incident documentation
+**Networking:** OSI / TCP-IP · VLAN (802.1Q) · OSPF · NAT/PAT · ACLs · pfSense · Cisco IOS
+**Automation:** Python (Netmiko) · Bash · Git · Linux (Debian/Ubuntu)
+
+
+---
+
+## 🎯 Currently
+
+- 🔬 Building hands-on labs in **SIEM detection engineering** and **network security**
+- 📚 Working through the **TryHackMe SOC pathway** and preparing for **CompTIA Security+**
+- 🇫🇷 Improving my French toward B1
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sarthakbansalgit&count_private=true&theme=radical&show_icons=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakbansalgit&layout=compact&theme=radical" alt="Top languages"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sarthakbansalgit&theme=radical" alt="GitHub streak"/>
+</p>
+
+---
+
+<p align="center"><i>Always happy to talk about cybersecurity, networking and automation. Feel free to reach out.</i></p>
